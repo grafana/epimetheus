@@ -7,7 +7,7 @@ require (
 	github.com/Azure/go-autorest/autorest v0.11.28
 	github.com/Azure/go-autorest/autorest/adal v0.9.22
 	github.com/alecthomas/kingpin/v2 v2.3.1
-	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137
+	github.com/alecthomas/units v0.0.0-20240927000941-0f3dac36c52b
 	github.com/apache/arrow/go/v10 v10.0.1
 	github.com/apache/arrow/go/v8 v8.0.0-20220414050214-b61fb727fcc9
 	github.com/aws/aws-sdk-go v1.44.207
@@ -52,7 +52,7 @@ require (
 	github.com/prometheus/exporter-toolkit v0.8.2
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.12
 	github.com/shurcooL/httpfs v0.0.0-20190707220628-8d4bc4ba7749
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.9.0
 	github.com/thanos-io/objstore v0.0.0-20230303144913-af9531b2a2b7
 	github.com/vultr/govultr/v2 v2.17.2
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.37.0
