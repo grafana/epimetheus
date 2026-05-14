@@ -55,7 +55,7 @@ require (
 )
 
 require (
-	github.com/prometheus/prometheus v0.37.1-0.20221011120840-430bdc9dd099
+	github.com/prometheus/prometheus v0.311.3
 	golang.org/x/oauth2 v0.0.0-20220808172628-8227340efae7 // indirect
 )
 
