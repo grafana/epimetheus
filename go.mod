@@ -193,7 +193,7 @@ require (
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/segmentio/encoding v0.3.6 // indirect
 	github.com/segmentio/parquet-go v0.0.0-20230216234451-674602166e6d // indirect
-	github.com/sirupsen/logrus v1.9.0 // indirect
+	github.com/sirupsen/logrus v1.9.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/tidwall/gjson v1.14.4 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
