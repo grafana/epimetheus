@@ -43,7 +43,7 @@ require (
 	github.com/ovh/go-ovh v1.3.0
 	github.com/pkg/errors v0.9.1
 	github.com/polarsignals/frostdb v0.0.0-20230306134514-bb0c4c0b1400
-	github.com/prometheus/alertmanager v0.25.0
+	github.com/prometheus/alertmanager v0.25.1
 	github.com/prometheus/client_golang v1.14.0
 	github.com/prometheus/client_model v0.3.0
 	github.com/prometheus/common v0.41.0
