@@ -55,7 +55,7 @@ require (
 	github.com/stretchr/testify v1.8.2
 	github.com/thanos-io/objstore v0.0.0-20230303144913-af9531b2a2b7
 	github.com/vultr/govultr/v2 v2.17.2
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.37.0
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.44.0
 	go.opentelemetry.io/otel v1.14.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.11.2
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.11.2
