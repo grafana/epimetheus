@@ -1,6 +1,6 @@
 module github.com/prometheus/prometheus
 
-go 1.23
+go 1.23.0
 
 require (
 	github.com/Azure/azure-sdk-for-go v65.0.0+incompatible
@@ -67,7 +67,7 @@ require (
 	go.uber.org/goleak v1.2.0
 	golang.org/x/exp v0.0.0-20230304125523-9ff063c70017
 	golang.org/x/net v0.7.0
-	golang.org/x/oauth2 v0.5.0
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/sync v0.1.0
 	golang.org/x/sys v0.6.0
 	golang.org/x/time v0.3.0
@@ -87,14 +87,13 @@ require (
 )
 
 require (
-	cloud.google.com/go/compute/metadata v0.2.3 // indirect
+	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	github.com/coreos/go-systemd/v22 v22.4.0 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 )
 
 require (
-	cloud.google.com/go/compute v1.14.0 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-autorest/autorest/date v0.3.0 // indirect
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
